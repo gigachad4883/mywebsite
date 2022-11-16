@@ -1,4 +1,10 @@
 .mainTitre {
-  font-family: arial;
+  font-family: roboto;
+  font-weight: bold;
   background-color: lightgrey;
+  text-align: center;
+  height: 400px;
+  font-size: 30px;
+}
+.Titre {
 }
